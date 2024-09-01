@@ -1,0 +1,5 @@
+---
+- name: restart forgejo
+  service:
+    name: forgejo
+    state: restarted

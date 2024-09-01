@@ -1,0 +1,8 @@
+---
+forgejo_internal_token: SECRET
+forgejo_secret_key: SECRET
+forgejo_db_name: forgejo
+forgejo_db_user: forgejo
+forgejo_db_pass: forgejo
+forgejo_db_host: postgresql
+forgejo_db_port: 5432
